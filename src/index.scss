@@ -1,0 +1,19 @@
+// Import Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700);
+@import url(https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i);
+
+// Import variables
+@import "./scss/variables";
+
+// Import Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// Global CSS
+@import "./scss/global.scss";
+
+// Components
+@import "./scss/components/sidenav.scss";
+@import "./scss/components/icons.scss";
+
+// Sections
+@import "./scss/sections/resume-section.scss";
