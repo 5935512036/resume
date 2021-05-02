@@ -27,7 +27,7 @@ export const getExperience = () => ({
             {
                 heading: 'Web Development Intern',
                 subHeading: 'Front-end Position',
-                description: 'Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.',
+                description: '............',
                 dateStart: 'September 2021',
                 dateEnd: 'June 2021'
             }
